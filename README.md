@@ -6,7 +6,7 @@ This code is used to evaluate the influence of several molecular descriptors and
 This project is part of my bachelor end project at Leiden university, at the computational drug discovery group at the LACDR. 
 
 ### File structure
-[data inladen + filter.ipynb](data inladen + filter.ipynb) is used to select a subset of data from the Papyrus database.
+[data_filter.ipynb](data_filter.ipynb) is used to select a subset of data from the Papyrus database.
 [calculating_descriptors.ipynb](calculating_descriptors.ipynb) is used to calculate 2D descriptors, morgan fingerprints and pharmacophore fingerprints of the data.
 
 [PCA.ipynb](PCA.ipynb) cantains the code for the principal component analysis on the data.
