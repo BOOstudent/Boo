@@ -7,6 +7,7 @@ This project is part of my bachelor end project at Leiden university, at the com
 
 ### File structure
 [data inladen + filter.ipynb](data inladen + filter.ipynb) is used to select a subset of data from the Papyrus database.
+[calculating_descriptors.ipynb](calculating_descriptors.ipynb) is used to calculate 2D descriptors, morgan fingerprints and pharmacophore fingerprints of the data.
 
 
 to be continued
