@@ -12,7 +12,7 @@ By using molplotly, interactive scatterplots are created and the compounds are c
 ### File structure
 [data_filter.ipynb](data_filter.ipynb) is used to select a subset of data from the Papyrus database.
 [calculating_descriptors.ipynb](calculating_descriptors.ipynb) is used to calculate 2D descriptors, morgan fingerprints and pharmacophore fingerprints of the data.
-[calculating_3D_descriptors.ipynb](calculating_3D-descriptors.ipynb) is used to calculate the 3D descriptors
+[calculating_3D_descriptor.ipynb](calculating_3D-descriptors.ipynb) is used to calculate the 3D descriptors
 [PCA.ipynb](PCA.ipynb) contains the code for the principal component analysis on the data.
 [MDS.ipynb](MDS.ipynb) contains the code for the multidimensional scaling on the data.
 [ISOmap.ipynb](ISOmap.ipynb) contains the code for the ISOmap on the data.
